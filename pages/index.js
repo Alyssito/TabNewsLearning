@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Traz almoço</h1>
+    return <h1>Jantar Está pronto?</h1>
 }
 
 export default Home; 
