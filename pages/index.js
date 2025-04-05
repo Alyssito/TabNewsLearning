@@ -1,5 +1,13 @@
-function Home(){
-    return <h1>Jantar Está pronto?</h1>
+function Home() {
+  return <h1>Jantar Está pronto?</h1>;
 }
 
-export default Home; 
+function teste() {
+  console.log("Teste");
+}
+
+function teste2() {
+  console.log("identação errada.");
+}
+
+export default Home;
